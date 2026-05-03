@@ -165,3 +165,7 @@ Header set X-XSS-Protection "1; mode=block"
 ## ✅ Conclusion
 
 The experiment successfully demonstrated common web vulnerabilities and their exploitation techniques using DVWA. Proper security controls and secure coding practices are necessary to protect modern web applications.
+
+## ⚠️ Disclaimer
+
+All testing was performed in a controlled lab environment using DVWA for educational purposes only.
